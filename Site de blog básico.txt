@@ -10,3 +10,5 @@ Página de Cadastro/Login, Página de Listagem de Receitas, Formulário para Adi
 Features:
 Página de Apresentação Pessoal, Galeria de Projetos, Formulário de Contato, Sistema de Autenticação para Edição e Página de Blog Pessoal 
 Arquivo editado pelo git hub
+
+versão 2
