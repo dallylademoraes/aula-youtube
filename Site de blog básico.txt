@@ -1,0 +1,11 @@
+*Site de blog básico*
+Features:
+Home Page, Sistema de Login/Registro, Criação e Edição de Posts, Página de Visualização de Posts e Sistema de Comentários.
+
+*Site de Receitas Culinárias*
+Features:
+Página de Cadastro/Login, Página de Listagem de Receitas, Formulário para Adicionar Receitas, Página de Receita Individual e Sistema de Favoritos 
+
+*Portfolio Online*
+Features:
+Página de Apresentação Pessoal, Galeria de Projetos, Formulário de Contato, Sistema de Autenticação para Edição e Página de Blog Pessoal 
